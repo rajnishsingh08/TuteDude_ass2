@@ -12,7 +12,7 @@ This script demonstrates basic Python programming concepts through two tasks.
 
 ### Task 2
 
-- Calculates and prints the cumulative sum of numbers from 1 to 49.
+- Calculates and prints the sum of numbers from 1 to 50.
 
 ## How to Run
 
@@ -22,4 +22,4 @@ Run the script using Python:
 python Assesment2.py
 ```
 
-Follow the on-screen prompts to provide input for each
+Follow the on-screen prompts to provide input for each task.
