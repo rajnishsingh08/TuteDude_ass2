@@ -15,9 +15,16 @@ except ValueError:
 #TASK 2
 print("\n task 2 \n")
 
-total=0
-for i in range(1,50):
-    
-    total+=i
-    print("The sum of number from 1 to 50 :",total)
+
+
+
+total = 0
+
+
+for i in range(1, 51):
+    total += i
+
+print("The sum of numbers from 1 to 50 is:", total)
+
+
 
